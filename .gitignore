@@ -1,0 +1,4 @@
+./venv/*
+./files_rotateds/
+./file_pdf/
+*.pdf
